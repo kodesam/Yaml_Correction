@@ -26,7 +26,7 @@ st.markdown("Use this app to correct the indentation of YAML files.")
 
 # Developed by section
 st.markdown("---")
-st.markdown("**Developed by:** Your Name")
+st.markdown("**Developed by:** Syed Aamir")
 
 st.markdown("---")
 
