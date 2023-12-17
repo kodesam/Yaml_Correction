@@ -27,7 +27,7 @@ st.markdown("Use this app to correct the indentation of YAML files.")
 # Developed by section
 st.markdown("---")
 st.markdown("**Developed by:** Your Name")
-st.markdown("**GitHub:** [Your GitHub URL](https://github.com/yourusername)")
+
 st.markdown("---")
 
 def correct_indentation(yaml_content):
